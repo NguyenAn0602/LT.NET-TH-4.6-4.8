@@ -1,0 +1,10 @@
+D:\Laptrinh.net\Bai4\Bai4.6\Bai4.6\bin\Debug\Bai4.6.exe.config
+D:\Laptrinh.net\Bai4\Bai4.6\Bai4.6\bin\Debug\Bai4.6.exe
+D:\Laptrinh.net\Bai4\Bai4.6\Bai4.6\bin\Debug\Bai4.6.pdb
+D:\Laptrinh.net\Bai4\Bai4.6\Bai4.6\obj\Debug\Bai4.6.csproj.AssemblyReference.cache
+D:\Laptrinh.net\Bai4\Bai4.6\Bai4.6\obj\Debug\Bai4._6.Form1.resources
+D:\Laptrinh.net\Bai4\Bai4.6\Bai4.6\obj\Debug\Bai4._6.Properties.Resources.resources
+D:\Laptrinh.net\Bai4\Bai4.6\Bai4.6\obj\Debug\Bai4.6.csproj.GenerateResource.cache
+D:\Laptrinh.net\Bai4\Bai4.6\Bai4.6\obj\Debug\Bai4.6.csproj.CoreCompileInputs.cache
+D:\Laptrinh.net\Bai4\Bai4.6\Bai4.6\obj\Debug\Bai4.6.exe
+D:\Laptrinh.net\Bai4\Bai4.6\Bai4.6\obj\Debug\Bai4.6.pdb
